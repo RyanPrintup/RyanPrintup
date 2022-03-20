@@ -8,6 +8,6 @@
 
 ### GitHub Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPrintup&layout=compact)](https://github.com/RyanPrintup/github-readme-stats)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=RyanPrintup.RyanPrintup&left_color=orange&right_color=black)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=RyanPrintup&show_icons=true&theme=gruvbox)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPrintup&layout=compact)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=RyanPrintup.RyanPrintup&left_color=orange&right_color=red)
