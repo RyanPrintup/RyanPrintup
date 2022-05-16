@@ -1,5 +1,6 @@
 # Hello
-I'm Ryan Printup, an Embedded Software Engineer II for Fender Muscial Instruments Corporation.
+
+I'm Ryan Printup, an Embedded Software Engineer II for [Fender Muscial Instruments Corporation](https://www.fender.com/).
 
 
 ### Connect with Me
@@ -20,4 +21,5 @@ I'm Ryan Printup, an Embedded Software Engineer II for Fender Muscial Instrument
 ### Statistics
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=RyanPrintup&show_icons=true)
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPrintup&layout=compact)
