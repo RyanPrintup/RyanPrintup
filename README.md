@@ -1,8 +1,8 @@
 # Hey there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm [Ryan](https://ryanprintup.com)
 
-I'm Ryan Printup, an Embedded Software Engineer II for [Fender Muscial Instruments Corporation](https://www.fender.com/).
+I live in Buffalo, NY and work as an Embedded Software Engineer II with [Fender](https://fender.com). In my spare time I work on side projects, learn new recipes, and play guitar with my friends in [Neon Rain Band](https://neonrainband.com).
 
-## Connect with Me
+## 💬 Stay in Touch!
 
 <a href="https://www.linkedin.com/in/ryanprintup">
 	<img align="left" src="https://raw.githubusercontent.com/RyanPrintup/RyanPrintup/main/media/logo-linkedin.png" alt="Connect with me on LinkedIn" width="32px" style="margin-right:10px"/>
@@ -13,3 +13,22 @@ I'm Ryan Printup, an Embedded Software Engineer II for [Fender Muscial Instrumen
 <a href="https://www.youtube.com/channel/UC-UCCEy_jLAB3_qpjgR5PkQ">
 	<img align="left" src="https://raw.githubusercontent.com/RyanPrintup/RyanPrintup/main/media/logo-youtube.png" alt="Subscribe to me on YouTube" width="32px" style="margin-right:10px"/>
 </a>
+<br/>
+<br/>
+
+## 🚀 What I Can Do
+<details>
+	<summary>💻 Languages</summary>
+	<br/>
+	<p>
+		C, C++, Python, C#, HTML5, CSS3
+	</p>
+</details>
+
+<details>
+	<summary>🔨 Tools</summary>
+	<br/>
+	<p>
+		VSCode, Visual Studio, Windows OS, Linux OS
+	</p>
+</details>
