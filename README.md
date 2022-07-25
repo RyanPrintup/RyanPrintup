@@ -21,7 +21,7 @@ I live in Buffalo, NY and work as an Embedded Software Engineer II with [Fender]
 	<summary>💻 Languages</summary>
 	<br/>
 	<p>
-		C, C++, Python, C#, HTML5, CSS3
+		C, C++, Python, C#, HTML5, CSS3, Sass
 	</p>
 </details>
 
@@ -29,6 +29,6 @@ I live in Buffalo, NY and work as an Embedded Software Engineer II with [Fender]
 	<summary>🔨 Tools</summary>
 	<br/>
 	<p>
-		VSCode, Visual Studio, Windows OS, Linux OS
+		VSCode, Visual Studio, Windows OS, Linux OS, Oscilloscope, Multimeter, Logic Analyzer, Soldering Iron
 	</p>
 </details>
