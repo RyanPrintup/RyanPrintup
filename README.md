@@ -29,7 +29,7 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 	<summary>🏗️ Libraries & Frameworks</summary>
 	<br/>
 	<code>
-		Bootstrap, React.JS, STM32Hal
+		Bootstrap, React.JS, STM32HAL, Qualcomm ADK
 	</code>
 </details>
 
@@ -54,5 +54,13 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 	<br/>
 	<code>
 		GPIO, ADC, DAC, DMA
+	</code>
+</details>
+
+<details>
+	<summary>🔩 Processors</summary>
+	<br/>
+	<code>
+		STM32H7, STM32G4, STM32G0, QCC3024, QCC3034, Arduino Uno, RaspberryPi
 	</code>
 </details>
