@@ -29,7 +29,7 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 	<summary>🏗️ Libraries & Frameworks</summary>
 	<br/>
 	<code>
-		Bootstrap, React.JS, STM32HAL, Qualcomm ADK
+		Bootstrap, React.JS, STM32HAL, Qualcomm ADK, Protocol Buffers
 	</code>
 </details>
 
@@ -37,7 +37,7 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 	<summary>🔨 Tools</summary>
 	<br/>
 	<code>
-		VSCode, Visual Studio, Windows OS, Linux OS (Ubuntu, Mint CentOS), Oscilloscope, Multimeter, Logic Analyzer, Soldering Iron
+		VSCode, Visual Studio, Windows OS, Linux OS (Ubuntu, Mint CentOS), Oscilloscope, Multimeter, Logic Analyzer, Soldering Iron, Trello, GitHub, BitBucket, Jira, Wireshark
 	</code>
 </details>
 
