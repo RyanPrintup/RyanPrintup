@@ -26,9 +26,33 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 </details>
 
 <details>
+	<summary>💻 Libraries & Frameworks</summary>
+	<br/>
+	<p>
+		Bootstrap, React.JS, STM32Hal
+	</p>
+</details>
+
+<details>
 	<summary>🔨 Tools</summary>
 	<br/>
 	<p>
-		VSCode, Visual Studio, Windows OS, Linux OS, Oscilloscope, Multimeter, Logic Analyzer, Soldering Iron
+		VSCode, Visual Studio, Windows OS, Linux OS (Ubuntu, Mint CentOS), Oscilloscope, Multimeter, Logic Analyzer, Soldering Iron
+	</p>
+</details>
+
+<details>
+	<summary>🔨 Protocols</summary>
+	<br/>
+	<p>
+		Ethernet, EtherCAT, SPI, I2C, UART, USB (HID / Hub / Audio)
+	</p>
+</details>
+
+<details>
+	<summary>Components & Peripherals</summary>
+	<br/>
+	<p>
+		GPIO, ADC, DAC
 	</p>
 </details>
