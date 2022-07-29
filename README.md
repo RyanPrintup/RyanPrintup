@@ -45,7 +45,7 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 	<summary>🔨 Protocols</summary>
 	<br/>
 	<code>
-		Ethernet, EtherCAT, SPI, I2C, UART, USB (HID / Hub / Audio)
+		Ethernet, EtherCAT, SPI, QSPI, I2C, UART, USB (HID / Hub / Audio), DFU
 	</code>
 </details>
 
@@ -53,6 +53,6 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 	<summary>Components & Peripherals</summary>
 	<br/>
 	<code>
-		GPIO, ADC, DAC
+		GPIO, ADC, DAC, DMA
 	</code>
 </details>
