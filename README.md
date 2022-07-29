@@ -26,7 +26,7 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 </details>
 
 <details>
-	<summary>💻 Libraries & Frameworks</summary>
+	<summary>🏗️ Libraries & Frameworks</summary>
 	<br/>
 	<code>
 		Bootstrap, React.JS, STM32Hal
@@ -42,7 +42,7 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 </details>
 
 <details>
-	<summary>🔨 Protocols</summary>
+	<summary>📡 Protocols</summary>
 	<br/>
 	<code>
 		Ethernet, EtherCAT, SPI, QSPI, I2C, UART, USB (HID / Hub / Audio), DFU
@@ -50,7 +50,7 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 </details>
 
 <details>
-	<summary>Components & Peripherals</summary>
+	<summary>🔩 Components & Peripherals</summary>
 	<br/>
 	<code>
 		GPIO, ADC, DAC, DMA
