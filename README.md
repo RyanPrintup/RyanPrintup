@@ -60,7 +60,28 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 <details>
 	<summary>🔩 Processors</summary>
 	<br/>
+	<b>STMicroelectronics</b>
 	<code>
-		STM32H7, STM32G4, STM32G0, QCC3024, QCC3034, Arduino Uno, RaspberryPi
+		STM32H743, STM32F303, STM32G474, STM32G0
+	</code>
+	<br/>
+	<b>Qualcomm</b>
+	<code>
+		QCC3024, QCC3034
+	</code>
+	<br/>
+	<b>Cypress</b>
+	<code>
+		PSoC 5LP
+	</code>
+	<br/>
+	<b>Raspberry Pi</b>
+	<code>
+		Raspberry Pi 3 Model B+
+	</code>
+	<br/>
+	<b>Arduino</b>
+	<code>
+		Arduino UNO, Arduino MEGA
 	</code>
 </details>
