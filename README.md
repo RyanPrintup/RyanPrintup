@@ -53,7 +53,7 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 	<summary>🔩 Components & Peripherals</summary>
 	<br/>
 	<code>
-		GPIO, ADC, DAC, DMA, CRC, NVIC, USB OTG, USB FS, USB HS, USB Device, USB Host
+		GPIO, ADC, DAC, DMA, CRC, NVIC, USB OTG, USB FS, USB HS, USB Device, USB Host, Timers, PWM
 	</code>
 </details>
 
