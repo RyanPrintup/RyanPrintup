@@ -112,11 +112,11 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 	<table>
 		<tr>
 			<th>STMicroelectronics</th>
-			<th>Qualcomm</th>
+			<th><img src="https://cdn.svgporn.com/logos/qualcomm.svg?response-content-disposition=attachment%3Bfilename%3Dqualcomm.svg" height="24"></th>
 			<th>Microchip</th>
 			<th>Cypress</th>
-			<th>Arduino</th>
-			<th>Raspberry Pi</th>
+			<th><img src="https://cdn.svgporn.com/logos/arduino.svg?response-content-disposition=attachment%3Bfilename%3Darduino.svg" height="24"></th>
+			<th><img src="https://cdn.svgporn.com/logos/raspberry-pi.svg?response-content-disposition=attachment%3Bfilename%3Draspberry-pi.svg" height="24"></th>
 		</tr>
 		<tr>
 			<td>STM32H743</td>
