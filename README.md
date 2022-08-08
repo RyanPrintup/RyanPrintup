@@ -43,23 +43,34 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 </details>
 
 <details>
-	<summary>🔨 Tools</summary>
+	<summary><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/code.svg" width="24"> Software Tools</summary>
 	<br/>
 	<ul>
 		<li>VSCode</li>
 		<li>Visual Studio</li>
 		<li>Windows OS</li>
 		<li>Linux OS (Ubuntu, Mint, CentOS)</li>
-		<li>Oscilloscope</li>
-		<li>Multimeter</li>
-		<li>Logic Analyzer</li>
-		<li>Soldering Iron</li>
 		<li>Trello</li>
 		<li>GitHub</li>
 		<li>BitBucket</li>
 		<li>Jira</li>
 		<li>Wireshark</li>
 		<li>GitHub Actions</li>
+	</ul>
+</details>
+
+<details>
+	<summary>🔨 Hardware Tools</summary>
+	<br/>
+	<ul>
+		<li>Breadboards</li>
+		<li>Function Generator</li>
+		<li>Logic Analyzer</li>
+		<li>Multimeter</li>
+		<li>Oscilloscope</li>
+		<li>Power Supply</li>
+		<li>Protocol Analyzer</li>
+		<li>Soldering Iron</li>
 	</ul>
 </details>
 
