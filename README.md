@@ -20,41 +20,79 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 <details>
 	<summary>💻 Languages</summary>
 	<br/>
-	<code>
-		C, C++, Python, C#, HTML5, CSS3
-	</code>
+	<ul>
+		<li>C</li>
+		<li>C++</li>
+		<li>Python</li>
+		<li>C#</li>
+		<li>HTML5</li>
+		<li>CSS3</li>
+	</ul>
 </details>
 
 <details>
 	<summary>🏗️ Libraries & Frameworks</summary>
 	<br/>
-	<code>
-		Bootstrap, React.JS, STM32HAL, Qualcomm ADK, Protocol Buffers
-	</code>
+	<ul>
+		<li>STM32 HAL</li>
+		<li>Qualcomm ADK</li>
+		<li>Google Protocol Buffers</li>
+		<li>Bootstrap</li>
+		<li>React.JS</li>
+	</ul>
 </details>
 
 <details>
 	<summary>🔨 Tools</summary>
 	<br/>
-	<code>
-		VSCode, Visual Studio, Windows OS, Linux OS (Ubuntu, Mint CentOS), Oscilloscope, Multimeter, Logic Analyzer, Soldering Iron, Trello, GitHub, BitBucket, Jira, Wireshark, GitHub Actions
-	</code>
+	<ul>
+		<li>VSCode</li>
+		<li>Visual Studio</li>
+		<li>Windows OS</li>
+		<li>Linux OS (Ubuntu, Mint, CentOS)</li>
+		<li>Oscilloscope</li>
+		<li>Multimeter</li>
+		<li>Logic Analyzer</li>
+		<li>Soldering Iron</li>
+		<li>Trello</li>
+		<li>GitHub</li>
+		<li>BitBucket</li>
+		<li>Jira</li>
+		<li>Wireshark</li>
+		<li>GitHub Actions</li>
+	</ul>
 </details>
 
 <details>
 	<summary>📡 Protocols</summary>
 	<br/>
-	<code>
-		Ethernet, EtherCAT, SPI, QSPI, I2C, UART, USART, USB (HID / Hub / Audio), DFU
-	</code>
+	<ul>
+		<li>Ethernet</li>
+		<li>EtherCAT</li>
+		<li>SPI</li>
+		<li>QSPI</li>
+		<li>I2C</li>
+		<li>UART</li>
+		<li>USART</li>
+		<li>USB (HID, Hub, Audio)</li>
+		<li>DFU</li>
+	</ul>
 </details>
 
 <details>
 	<summary>🔩 Components & Peripherals</summary>
 	<br/>
-	<code>
-		GPIO, ADC, DAC, DMA, CRC, NVIC, USB OTG, USB FS, USB HS, USB Device, USB Host, Timers, PWM
-	</code>
+	<ul>
+		<li>GPIO</li>
+		<li>ADC</li>
+		<li>DAC</li>
+		<li>DMA</li>
+		<li>CRC</li>
+		<li>NVIC</li>
+		<li>USB (OTG, FS, HS, Device, Host)</li>
+		<li>Timer</li>
+		<li>PWM</li>
+	</ul>
 </details>
 
 <details>
