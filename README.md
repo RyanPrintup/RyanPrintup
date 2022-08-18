@@ -49,13 +49,16 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 		<li>VSCode</li>
 		<li>Visual Studio</li>
 		<li>Windows OS</li>
+		<li>Microsoft Office</li>
 		<li>Linux OS (Ubuntu, Mint, CentOS)</li>
 		<li>Trello</li>
+		<li>Git</li>
 		<li>GitHub</li>
 		<li>BitBucket</li>
 		<li>Jira</li>
 		<li>Wireshark</li>
 		<li>GitHub Actions</li>
+		<li>GNU Make</li>
 	</ul>
 </details>
 
@@ -63,6 +66,7 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 	<summary>🔨 Hardware Tools</summary>
 	<br/>
 	<ul>
+		<li>SPICE</li>
 		<li>Breadboards</li>
 		<li>Function Generator</li>
 		<li>Logic Analyzer</li>
@@ -71,6 +75,7 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 		<li>Power Supply</li>
 		<li>Protocol Analyzer</li>
 		<li>Soldering Iron</li>
+		<li>Debugger</li>
 	</ul>
 </details>
 
