@@ -39,6 +39,7 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 		<li>Google Protocol Buffers</li>
 		<li>Bootstrap</li>
 		<li>React.JS</li>
+		<li>Jekyll</li>
 	</ul>
 </details>
 
