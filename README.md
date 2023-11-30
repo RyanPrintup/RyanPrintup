@@ -4,6 +4,8 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 
 ## 💬 Stay in Touch!
 
+You can see what I'm up too through my social media.
+
 <a href="https://www.linkedin.com/in/ryanprintup">
 	<img align="left" src="./media/social-media/linkedin.png" alt="Connect with me on LinkedIn" width="32px" style="margin-right:10px"/>
 </a>
@@ -17,6 +19,9 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 <br/>
 
 ## 🚀 What I Can Do
+
+Click a section below to see tools & skills I have used before.
+
 <details>
 	<summary>💻 Languages</summary>
 	<br/>
