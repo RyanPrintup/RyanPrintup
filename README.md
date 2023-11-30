@@ -5,13 +5,13 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 ## 💬 Stay in Touch!
 
 <a href="https://www.linkedin.com/in/ryanprintup">
-	<img align="left" src="https://raw.githubusercontent.com/RyanPrintup/RyanPrintup/main/media/logo-linkedin.png" alt="Connect with me on LinkedIn" width="32px" style="margin-right:10px"/>
+	<img align="left" src="./media/social-media/linkedin.png" alt="Connect with me on LinkedIn" width="32px" style="margin-right:10px"/>
 </a>
 <a href="https://www.instagram.com/ryanprintup">
-	<img align="left" src="https://raw.githubusercontent.com/RyanPrintup/RyanPrintup/main/media/logo-instagram.png" alt="Follow me on Instagram" width="32px" style="margin-right:10px"/>
+	<img align="left" src="./media/social-media/instagram.png" alt="Follow me on Instagram" width="32px" style="margin-right:10px"/>
 </a>
-<a href="https://www.youtube.com/channel/UC-UCCEy_jLAB3_qpjgR5PkQ">
-	<img align="left" src="https://raw.githubusercontent.com/RyanPrintup/RyanPrintup/main/media/logo-youtube.png" alt="Subscribe to me on YouTube" width="32px" style="margin-right:10px"/>
+<a href="https://www.youtube.com/@ryanprintup">
+	<img align="left" src="./media/social-media/youtube.png" alt="Subscribe to me on YouTube" width="32px" style="margin-right:10px"/>
 </a>
 <br/>
 <br/>
@@ -117,31 +117,43 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 	<br/>
 	<table>
 		<tr>
-			<th>STMicroelectronics</th>
-			<th><img src="https://cdn.svgporn.com/logos/qualcomm.svg?response-content-disposition=attachment%3Bfilename%3Dqualcomm.svg" height="24"></th>
-			<th>Microchip</th>
-			<th>Cypress</th>
-			<th><img src="https://cdn.svgporn.com/logos/arduino.svg?response-content-disposition=attachment%3Bfilename%3Darduino.svg" height="24"></th>
-			<th><img src="https://cdn.svgporn.com/logos/raspberry-pi.svg?response-content-disposition=attachment%3Bfilename%3Draspberry-pi.svg" height="24"></th>
+			<th>
+                <img src="./media/processors/stmicroelectronics.svg" height="24">
+            </th>
+			<th>
+                <img src="./media/processors/qualcomm.svg" height="24">
+            </th>
+			<th>
+                <img src="./media/processors/cypress.svg" height="24">
+            </th>
+			<th>
+                <img src="./media/processors/arduino.svg" height="24">
+            </th>
+			<th>
+                <img src="./media/processors/raspberry-pi.svg" height="24">
+            </th>
+            <th>
+                <img src="./media/processors/infineon.svg" height="24">
+            </th>
 		</tr>
 		<tr>
-			<td>STM32H743</td>
+			<td>STM32H7</td>
 			<td>QCC3024</td>
-			<td></td>
 			<td>PSoC 5LP</td>
 			<td>UNO</td>
 			<td>3 Model B+</td>
+            <td>XMC4800</td>
 		</tr>
 		<tr>
-			<td>STM32F303</td>
+			<td>STM32F3</td>
 			<td>QCC3034</td>
-			<td></td>
 			<td></td>
 			<td>Mega</td>
 			<td></td>
+            <td>XMC4700</td>
 		</tr>
 		<tr>
-			<td>STM32G474</td>
+			<td>STM32G4</td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -151,7 +163,7 @@ I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare
 		<tr>
 			<td>STM32G0</td>
 			<td></td>
-			<td></td>
+            <td></td>
 			<td></td>
 			<td></td>
 			<td></td>
