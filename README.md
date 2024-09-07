@@ -1,6 +1,6 @@
 # Hey there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm [Ryan Printup](https://ryanprintup.com)
 
-I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare time I work on side projects, learn new recipes, and play guitar with my friends in [Neon Rain Band](https://neonrainband.com).
+I live in Buffalo, NY and work as an Electrical & Software Engineer. In my spare time I work on side projects, learn new recipes, and play guitar with my friends.
 
 ## 💬 Stay in Touch!
 
