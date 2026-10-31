@@ -1,0 +1,45 @@
+{
+    "colors": {
+        "navy": "#0E2A47",
+        "harbor": "#173A60",
+        "ember": "#F58A2E",
+        "rust": "#A8460F",
+        "sand": "#F6EFE6"
+    },
+    "font": "big-shoulders-display-latin-900-normal.woff2",
+    "banner": {
+        "title": "Ryan Printup: I build the gear I play",
+        "width": 900,
+        "height": 188,
+        "contentHeight": 184,
+        "logo": {
+            "height": 96,
+            "x": 207,
+            "gap": 48,
+            "baselines": [73.22, 160.27]
+        },
+        "headline": [
+            [{ "text": "I BUILD THE" }],
+            [{ "text": "GEAR", "ember": true }, { "text": " I PLAY" }]
+        ]
+    },
+    "headings": {
+        "size": 30,
+        "items": {
+            "work": ["MY ", "WORK"],
+            "music": ["MY ", "MUSIC"],
+            "skills": ["WHAT I CAN ", "DO"]
+        }
+    },
+    "tiles": {
+        "size": 64,
+        "iconSize": 32,
+        "icons": {
+            "linkedin": "LinkedIn",
+            "instagram": "Instagram",
+            "youtube": "YouTube",
+            "facebook": "Facebook",
+            "bandsintown": "Bandsintown"
+        }
+    }
+}
