@@ -3,8 +3,18 @@
 
 GitHub READMEs can't load fonts or CSS, so all type is converted to outlines.
 
-Needs fonttools, brotli and uharfbuzz:
+Install dependencies with:
+    pip install -r scripts/requirements.txt
+
+Run with:
     python3 scripts/make_assets.py <fonts dir> <logo.svg> <social icons dir>
+
+Inputs:
+    <fonts dir>: a folder containing big-shoulders-display-latin-900-normal.woff2
+        (Big Shoulders Display, Black 900, from Fontsource / Google Fonts)
+    <logo.svg>: the RYAN PRINTUP logo, in its colors for navy backgrounds
+    <social icons dir>: a folder of single-color SVG icons named linkedin.svg,
+        instagram.svg, youtube.svg, facebook.svg and bandsintown.svg
 """
 import io
 import json

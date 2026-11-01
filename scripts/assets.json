@@ -13,9 +13,9 @@
         "height": 188,
         "contentHeight": 184,
         "logo": {
-            "height": 96,
-            "x": 207,
-            "gap": 48,
+            "height": 128,
+            "x": 126,
+            "gap": 64,
             "baselines": [73.22, 160.27]
         },
         "headline": [

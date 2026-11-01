@@ -4,7 +4,7 @@
 
 Hey there, I'm [Ryan Printup](https://ryanprintup.com). I live in Buffalo, NY and work as an Embedded Software Engineer at Fender, building the firmware inside digital guitar amplifiers and effects. I've been writing code and playing guitar since I was 12. Outside of work, I write music, try new recipes, and run to burn off the results.
 
-<h2><a name="my-work"></a><picture><source media="(prefers-color-scheme: dark)" srcset="./media/headings/work-dark.svg"><img src="./media/headings/work-light.svg" alt="My Work" height="24"></picture></h2>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="./media/headings/work-dark.svg"><img src="./media/headings/work-light.svg" alt="My Work" height="24"></picture></h2>
 
 <table>
 	<tbody><tr>
@@ -33,7 +33,7 @@ Hey there, I'm [Ryan Printup](https://ryanprintup.com). I live in Buffalo, NY an
 	</tr></tbody>
 </table>
 
-<h2><a name="my-music"></a><picture><source media="(prefers-color-scheme: dark)" srcset="./media/headings/music-dark.svg"><img src="./media/headings/music-light.svg" alt="My Music" height="24"></picture></h2>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="./media/headings/music-dark.svg"><img src="./media/headings/music-light.svg" alt="My Music" height="24"></picture></h2>
 
 I play guitar, mandolin, and bass with three groups. See where I'm playing next on my [shows page](https://ryanprintup.com/shows).
 
@@ -57,7 +57,7 @@ I play guitar, mandolin, and bass with three groups. See where I'm playing next 
 	</tr>
 </table>
 
-<h2><a name="what-i-can-do"></a><picture><source media="(prefers-color-scheme: dark)" srcset="./media/headings/skills-dark.svg"><img src="./media/headings/skills-light.svg" alt="What I Can Do" height="24"></picture></h2>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="./media/headings/skills-dark.svg"><img src="./media/headings/skills-light.svg" alt="What I Can Do" height="24"></picture></h2>
 
 <table>
 	<tr>
@@ -66,7 +66,11 @@ I play guitar, mandolin, and bass with three groups. See where I'm playing next 
 	</tr>
 	<tr>
 		<td width="26%"><strong>Practices</strong></td>
-		<td>Device Drivers, Bootloaders &amp; Field Updates, Real-Time Firmware, Digital Signal Processing, Unit Testing, CI/CD, Code Review</td>
+		<td>Device Drivers, Bootloaders &amp; Field Updates, Real-Time Firmware, Embedded Linux (Yocto), Digital Signal Processing, Unit Testing, CI/CD, Code Review</td>
+	</tr>
+	<tr>
+		<td width="26%"><strong>Architectures</strong></td>
+		<td>Arm Cortex-M, Arm Cortex-A (NEON SIMD)</td>
 	</tr>
 	<tr>
 		<td width="26%"><strong>Processors &amp; FPGAs</strong></td>
@@ -88,7 +92,7 @@ I play guitar, mandolin, and bass with three groups. See where I'm playing next 
 	</tr>
 	<tr>
 		<td width="26%"><strong>Protocols</strong></td>
-		<td>Ethernet, EtherCAT, Bluetooth, SPI, QSPI, I2C, UART/USART, RS-232, USB (Device, Host, OTG, FS/HS, HID, Hub, Audio, CDC), DFU</td>
+		<td>Ethernet, EtherCAT, Bluetooth (A2DP, BLE), SPI, QSPI, I2C, UART/USART, RS-232, USB (Device, Host, OTG, FS/HS, HID, Hub, Audio, CDC), DFU</td>
 	</tr>
 	<tr>
 		<td width="26%"><strong>Components &amp; Peripherals</strong></td>
@@ -100,7 +104,7 @@ I play guitar, mandolin, and bass with three groups. See where I'm playing next 
 	</tr>
 	<tr>
 		<td width="26%"><strong>Software Tools</strong></td>
-		<td>Git, GitHub, GitHub Actions, Bitbucket, Jira, GNU Make, CMake, Docker, nginx, Certbot, FFmpeg, Wireshark, VS Code, Visual Studio, Embedded Linux, Linux OS (Ubuntu, Mint, CentOS), Windows OS</td>
+		<td>Git, GitHub, GitHub Actions, Bitbucket, Jira, GNU Make, CMake, GDB, Clang, Docker, nginx, Certbot, FFmpeg, Wireshark, VS Code, Visual Studio</td>
 	</tr>
 	<tr>
 		<td width="26%"><strong>Hardware Tools</strong></td>
@@ -108,5 +112,3 @@ I play guitar, mandolin, and bass with three groups. See where I'm playing next 
 	</tr>
 </table>
 </details>
-
-More at [ryanprintup.com](https://ryanprintup.com).
