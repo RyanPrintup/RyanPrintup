@@ -1,11 +1,5 @@
 {
-    "colors": {
-        "navy": "#0E2A47",
-        "harbor": "#173A60",
-        "ember": "#F58A2E",
-        "rust": "#A8460F",
-        "sand": "#F6EFE6"
-    },
+    "brand": "v1.0.0",
     "font": "big-shoulders-display-latin-900-normal.woff2",
     "banner": {
         "title": "Ryan Printup: I build the gear I play",

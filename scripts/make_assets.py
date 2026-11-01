@@ -7,19 +7,18 @@ Install dependencies with:
     pip install -r scripts/requirements.txt
 
 Run with:
-    python3 scripts/make_assets.py <fonts dir> <logo.svg> <social icons dir>
+    python3 scripts/make_assets.py
 
-Inputs:
-    <fonts dir>: a folder containing big-shoulders-display-latin-900-normal.woff2
-        (Big Shoulders Display, Black 900, from Fontsource / Google Fonts)
-    <logo.svg>: the RYAN PRINTUP logo, in its colors for navy backgrounds
-    <social icons dir>: a folder of single-color SVG icons named linkedin.svg,
-        instagram.svg, youtube.svg, facebook.svg and bandsintown.svg
+The colors, font, logo and social icons come from the private brand repo, at the
+version named by "brand" in assets.json. It's cloned to a temporary folder outside
+this repo and deleted afterwards, so running this needs read access to that repo.
+Only the built SVGs in media/ are committed here.
 """
 import io
 import json
 import re
-import sys
+import subprocess
+import tempfile
 from pathlib import Path
 from xml.sax.saxutils import escape
 
@@ -30,7 +29,8 @@ from fontTools.ttLib import TTFont
 
 ROOT = Path(__file__).parent.parent
 CONFIG = json.loads((Path(__file__).parent / "assets.json").read_text())
-COLORS = CONFIG["colors"]
+BRAND_REPO = "git@github.com:RyanPrintup/brand.git"
+COLORS = {}
 
 
 class Font:
@@ -117,20 +117,31 @@ def tile(icon_src, name):
                f'<g transform="translate({x:g} {y:g}) scale({scale:.5f})" fill="{COLORS["ember"]}">{shapes}</g>')
 
 
-def main(fonts, logo, icons):
-    out = ROOT / "media"
-    display = Font(Path(fonts) / CONFIG["font"])
+def build(brand):
+    tokens = json.loads((brand / "tokens.json").read_text())
+    COLORS.update({name: token["value"] for name, token in tokens["color"].items()})
 
-    (out / "banner.svg").write_text(banner(display, Path(logo).read_text()))
+    out = ROOT / "media"
+    display = Font(brand / "fonts" / "web" / CONFIG["font"])
+
+    (out / "banner.svg").write_text(banner(display, (brand / "logo" / "logo.svg").read_text()))
     for name, (plain, word) in CONFIG["headings"]["items"].items():
         (out / f"headings/{name}-dark.svg").write_text(
             heading(display, plain, word, COLORS["sand"], COLORS["ember"]))
         (out / f"headings/{name}-light.svg").write_text(
             heading(display, plain, word, COLORS["navy"], COLORS["rust"]))
     for name, label in CONFIG["tiles"]["icons"].items():
-        icon = (Path(icons) / f"{name}.svg").read_text()
+        icon = (brand / "icons" / f"{name}.svg").read_text()
         (out / f"social-media/{name}.svg").write_text(tile(icon, label))
 
 
+def main():
+    with tempfile.TemporaryDirectory() as folder:
+        brand = Path(folder) / "brand"
+        subprocess.run(["git", "-c", "advice.detachedHead=false", "clone", "--quiet", "--depth", "1",
+                        "--branch", CONFIG["brand"], BRAND_REPO, str(brand)], check=True)
+        build(brand)
+
+
 if __name__ == "__main__":
-    main(*sys.argv[1:])
+    main()
