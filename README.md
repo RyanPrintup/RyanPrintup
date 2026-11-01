@@ -62,15 +62,15 @@ I play guitar, mandolin, and bass with three groups. See where I'm playing next 
 <table>
 	<tr>
 		<td width="26%"><strong>Languages</strong></td>
-		<td>C, C++, C#, Python, JavaScript, Dart, Swift, Bash, MATLAB, HTML5, CSS3</td>
+		<td>C, C++, Python, C#, Bash</td>
 	</tr>
 	<tr>
 		<td width="26%"><strong>Practices</strong></td>
 		<td>Device Drivers, Bootloaders &amp; Field Updates, Real-Time Firmware, Digital Signal Processing, Unit Testing, CI/CD, Code Review</td>
 	</tr>
 	<tr>
-		<td width="26%"><strong>Processors</strong></td>
-		<td>STMicroelectronics (STM32H7, STM32F3, STM32F4, STM32G0, STM32G4), NXP (i.MX 8, ColdFire), Renesas (RZ/G), Infineon (XMC4700, XMC4800, PSoC 5LP), Qualcomm (QCC3024, QCC3034), Microchip (PIC32), AMD Xilinx (Zynq, Spartan FPGA), Arduino (UNO, Mega), Raspberry Pi (3 Model B+)</td>
+		<td width="26%"><strong>Processors &amp; FPGAs</strong></td>
+		<td>STMicroelectronics (STM32H7, STM32F3, STM32F4, STM32G0, STM32G4), NXP (i.MX 8, ColdFire), Renesas (RZ/G), Infineon (XMC4700, XMC4800, PSoC 5LP), Qualcomm (QCC3024, QCC3034), Microchip (PIC32), AMD Xilinx (Zynq, Spartan FPGA)</td>
 	</tr>
 </table>
 
@@ -79,24 +79,32 @@ I play guitar, mandolin, and bass with three groups. See where I'm playing next 
 <br/>
 <table>
 	<tr>
+		<td width="26%"><strong>Other Languages</strong></td>
+		<td>JavaScript, Dart, Swift, MATLAB, HTML5, CSS3</td>
+	</tr>
+	<tr>
 		<td width="26%"><strong>Libraries &amp; Frameworks</strong></td>
-		<td>STM32 HAL, FreeRTOS, Qt / QML, Qualcomm ADK, Acontis EC-Master, Google Protocol Buffers, Core Audio (AudioUnit, AudioQueue), Web Audio API, .NET, Rx.NET, Avalonia UI, WPF, WinForms, Flutter, SDL2, Node.js, React.JS, Bootstrap, Eleventy, Jekyll, Webpack, Sass, Playwright</td>
+		<td>STM32 HAL, FreeRTOS, Qt / QML, Qualcomm ADK, Acontis EC-Master, Google Protocol Buffers, Core Audio (AudioUnit, AudioQueue), Web Audio API, .NET, Rx.NET, Avalonia UI, WPF, WinForms, Flutter, SDL2, Node.js, React, Bootstrap, Eleventy, Jekyll, Webpack, Sass, Playwright</td>
 	</tr>
 	<tr>
 		<td width="26%"><strong>Protocols</strong></td>
-		<td>Ethernet, EtherCAT, Bluetooth, SPI, QSPI, I2C, UART, USART, RS-232, USB (HID, Hub, Audio, CDC), DFU</td>
+		<td>Ethernet, EtherCAT, Bluetooth, SPI, QSPI, I2C, UART/USART, RS-232, USB (Device, Host, OTG, FS/HS, HID, Hub, Audio, CDC), DFU</td>
 	</tr>
 	<tr>
 		<td width="26%"><strong>Components &amp; Peripherals</strong></td>
-		<td>GPIO, ADC, DAC, DMA, CRC, NVIC, USB (OTG, FS, HS, Device, Host), Timer, PWM</td>
+		<td>GPIO, ADC, DAC, DMA, CRC, NVIC, Timer, PWM</td>
+	</tr>
+	<tr>
+		<td width="26%"><strong>Dev Boards</strong></td>
+		<td>Arduino (UNO, Mega), Raspberry Pi (3 Model B+)</td>
 	</tr>
 	<tr>
 		<td width="26%"><strong>Software Tools</strong></td>
-		<td>Git, GitHub, GitHub Actions, BitBucket, Jira, GNU Make, CMake, Docker, nginx, Certbot, FFmpeg, Wireshark, VSCode, Visual Studio, Embedded Linux, Linux OS (Ubuntu, Mint, CentOS), Windows OS, Microsoft Office, Trello</td>
+		<td>Git, GitHub, GitHub Actions, Bitbucket, Jira, GNU Make, CMake, Docker, nginx, Certbot, FFmpeg, Wireshark, VS Code, Visual Studio, Embedded Linux, Linux OS (Ubuntu, Mint, CentOS), Windows OS</td>
 	</tr>
 	<tr>
 		<td width="26%"><strong>Hardware Tools</strong></td>
-		<td>Oscilloscope, Logic Analyzer, Protocol Analyzer, Debugger, Multimeter, Function Generator, Power Supply, Soldering Iron, Breadboards, SPICE</td>
+		<td>Oscilloscope, Logic Analyzer, Protocol Analyzer, Debug Probes (J-Link, ST-Link; SWD/JTAG), Function Generator, Power Supply, SPICE</td>
 	</tr>
 </table>
 </details>
